@@ -1,5 +1,7 @@
 ![SnakeAid](SnakeAidBanner.png)
 
+![SystemArchitecture](<System Architecture.png>)
+
 <p align="center"><strong>AI-Powered Platform for Snakebite First Aid and Rescue Support</strong></p>
 
 SnakeAid revolutionizes the response to snakebite incidents by connecting patients, rescuers, experts, and administrators in a unified ecosystem. Our mission is to minimize fatalities through timely first aid guidance, accurate AI-driven identification, and rapid rescue coordination.
